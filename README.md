@@ -19,7 +19,7 @@
 
 ---
 
-<img width="512" height="512" alt="452968042-63ed2c07-e44a-437e-b57b-13b61c4a2aae" src="https://gist.github.com/user-attachments/assets/5ca4f094-1bda-4c68-ab4d-b88a2e1c3664" />
+![prologue1](pics/prologue1.png)
 
 ### Scene 1：目覚め 〜 記憶の違和感
 
@@ -210,7 +210,7 @@ Masaはふとティアラを見る。彼女の目の奥には、言葉になら�
 
 ---
 
-<img width="512" height="512" alt="prologue2" src="https://gist.github.com/user-attachments/assets/368111dc-3723-4eec-a781-0335020d4018" />
+![prologue2](pics/prologue2.png)
 
 
 ### Scene 1：沈黙する森
@@ -424,7 +424,7 @@ Masaは何も言わなかった。
 
 ---
 
-![chap1_scene1](../pics/chap1_scene1.png)
+![chap1_scene1](pics/chap1_scene1.png)
 
 空は高く澄み、風はまだ「名」を持たぬまま流れていた。
 
@@ -625,7 +625,7 @@ Masaはまだ、この世界に名前を持っていない。
 
 ---
 
-![chap1_scene2](../pics/chap1_scene2.png)
+![chap1_scene2](pics/chap1_scene2.png)
 
 書記所は、静けさと光でできていた。
 
@@ -877,7 +877,7 @@ Masaは一度だけ振り返り、消えかけた結晶を見た。
 
 ---
 
-![chap1_scene3](../pics/chap1_scene3.png)
+![chap1_scene3](pics/chap1_scene3.png)
 
 書記所を出ると、街は光と声に満ちていた。
 
@@ -1060,7 +1060,7 @@ Masaは懐の仮通行証に触れた。
 
 ---
 
-![chap1_scene4](../pics/chap1_scene4.png)
+![chap1_scene4](pics/chap1_scene4.png)
 
 夜が街をすっかり包み込んでいた。
 
@@ -1219,7 +1219,7 @@ Masaは何も言えなかった。
 
 ---
 
-![chap1_scene4.5](../pics/chap1_scene4.5.png)
+![chap1_scene4.5](pics/chap1_scene4.5.png)
 
 朝の光が、窓から差し込んでいた。
 
@@ -1344,7 +1344,7 @@ Masaは足を止めた。
 
 ---
 
-![chap1_scene5](../pics/chap1_scene5.png)
+![chap1_scene5](pics/chap1_scene5.png)
 
 路地の奥に、小さな影があった。
 
@@ -1630,7 +1630,7 @@ Masaにはまだ、わからなかった。
 
 ---
 
-![chap1_scene6](../pics/chap1_scene6.png)
+![chap1_scene6](pics/chap1_scene6.png)
 
 ユクリを抱えたまま、三人は書記所へ戻った。
 
@@ -2005,7 +2005,7 @@ Masaは腕の中のユクリを見下ろした。
 
 ---
 
-![chap1_scene7](../pics/chap1_scene7.png)
+![chap1_scene7](pics/chap1_scene7.png)
 
 監査官が去った後、リリィが記名庫の奥を指さした。
 
@@ -2554,7 +2554,7 @@ Masaは振り返り、歩き出した。
 
 ---
 
-![chap1_scene8](../pics/Chap1_Scene8.png)
+![chap1_scene8](pics/Chap1_Scene8.png)
 
 三日目の朝が来た。
 
